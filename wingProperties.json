@@ -1,0 +1,18 @@
+{
+	"close":false,
+	"natures":["egretProject"],
+	"resourcePlugin":{
+		"configs":[{
+				"configPath":"resource/default.res.json",
+				"relativePath":"resource/"
+			}],
+		"id":"org.egret-labs.resource",
+		"library":{
+			"children":[{
+					"isFolder":false,
+					"key":"bg_jpg",
+					"name":"bg_jpg"
+				}]
+		}
+	}
+}
